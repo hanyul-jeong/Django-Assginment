@@ -5,7 +5,27 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8647d025-af16-45aa-9f6f-304ce64e294f" name="변경" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources.local.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/registration/login.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/registration/signup.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/todo_info.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/todo_list.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/todo/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/todo/admin.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/todo/apps.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/todo/migrations/0001_initial.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/todo/migrations/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/todo/models.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/todo/tests.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/todo/views.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/DjangoProject1.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/DjangoProject1.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DjangoProject1/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/DjangoProject1/settings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DjangoProject1/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/DjangoProject1/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/db.sqlite3" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -29,12 +49,18 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
+    "django.template.preview.state": "SHOW_EDITOR_AND_PREVIEW",
+    "git-widget-placeholder": "master 병합 중",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\hanyu\PycharmProjects\DjangoProject1\templates\registration" />
+    </key>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -57,5 +83,8 @@
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="LAST_COMMIT_MESSAGE" value="" />
   </component>
 </project>
